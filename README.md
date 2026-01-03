@@ -4,7 +4,7 @@ A modern, interactive location recommendation app that helps you find the perfec
 
 ![Smart Recommender](https://img.shields.io/badge/React-19.2.0-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4.1.18-38bdf8) ![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-green)
 
-## ✨ Features
+##  Features
 
 - **Mood-Based Filtering**: Find places that match your current mood (Work, Quick Bite, Romantic, Adventure, Relax)
 - **Interactive Map**: Real-time map with markers that update based on your selection
@@ -13,7 +13,7 @@ A modern, interactive location recommendation app that helps you find the perfec
 - **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Click to Focus**: Click any place in the list to focus it on the map
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -24,7 +24,7 @@ A modern, interactive location recommendation app that helps you find the perfec
 | Animations | Framer Motion | Smooth transitions |
 | Build Tool | Vite | Fast development server |
 
-## 📦 Installation
+##  Installation
 
 1. **Clone or navigate to the project**
    ```bash
@@ -45,7 +45,7 @@ A modern, interactive location recommendation app that helps you find the perfec
    - The terminal will show a local URL (usually `http://localhost:5173`)
    - Open that URL in your browser
 
-## 🎯 Usage
+##  Usage
 
 1. **Select Your Mood**: Click on any mood button (Work, Quick Bite, Romantic, Adventure, Relax, or All Places)
 2. **View Results**: The map and list will automatically filter to show matching places
@@ -71,7 +71,7 @@ smart-recommender/
 └── tailwind.config.js          # Tailwind configuration
 ```
 
-## 🧮 Distance Calculation
+##  Distance Calculation
 
 The app uses the **Haversine Formula** to calculate the great-circle distance between two points on Earth:
 
@@ -84,11 +84,11 @@ Where:
 - `φ₁, φ₂` = latitudes of the two points
 - `λ₁, λ₂` = longitudes of the two points
 
-## 🎨 Available Moods
+##  Available Moods
 
 - **☕ Work**: Coffee shops and co-working spaces
 - **⚡ Quick Bite**: Fast food and quick meal options
-- **❤️ Romantic**: Fine dining and intimate restaurants
+- **❤️ Date**: Fine dining and intimate restaurants
 - **⛰️ Adventure**: Parks, beaches, and outdoor activities
 - **✨ Relax**: Spas and tranquil spaces
 
@@ -99,7 +99,7 @@ Where:
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🔮 Future Enhancements (Phase 4)
+##  Future Enhancements (Phase 4)
 
 - Real user geolocation
 - Open hours checking
@@ -108,11 +108,11 @@ Where:
 - User reviews and ratings
 - Favorite places
 
-## 📄 License
+##  License
 
 This project is open source and available for personal and educational use.
 
-## 🙏 Credits
+##  Credits
 
 - **Leaflet**: Open-source mapping library
 - **OpenStreetMap**: Free map tiles
