@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Third Wave Coffee",
+    "mood": "work",
+    "rating": 4.6,
+    "coordinates": [12.9352, 77.6245],
+    "description": "Perfect spot for focused work sessions with great WiFi",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Starbucks - Indiranagar",
+    "mood": "work",
+    "rating": 4.4,
+    "coordinates": [12.9784, 77.6408],
+    "description": "Spacious workspace with reliable WiFi and power outlets",
+    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Pizza Hut - Koramangala",
+    "mood": "quick bite",
+    "rating": 4.3,
+    "coordinates": [12.9352, 77.6245],
+    "description": "Fast, delicious pizzas for a quick lunch",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Burger King - MG Road",
+    "mood": "quick bite",
+    "rating": 4.2,
+    "coordinates": [12.9716, 77.5946],
+    "description": "Classic burgers served in minutes",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "The Black Pearl",
+    "mood": "romantic",
+    "rating": 4.7,
+    "coordinates": [12.9352, 77.6245],
+    "description": "Stunning rooftop views, perfect for date night",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Karavalli - The Gateway Hotel",
+    "mood": "romantic",
+    "rating": 4.8,
+    "coordinates": [12.9716, 77.5946],
+    "description": "Intimate atmosphere with fine dining and candlelit ambiance",
+    "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Cubbon Park",
+    "mood": "adventure",
+    "rating": 4.9,
+    "coordinates": [12.9762, 77.5928],
+    "description": "Vast park perfect for jogging, cycling, and exploring",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Lalbagh Botanical Garden",
+    "mood": "adventure",
+    "rating": 4.7,
+    "coordinates": [12.9507, 77.5848],
+    "description": "Beautiful botanical garden for nature walks and photography",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Spa Ceylon - Indiranagar",
+    "mood": "relax",
+    "rating": 4.6,
+    "coordinates": [12.9784, 77.6408],
+    "description": "Peaceful spa for ultimate relaxation and rejuvenation",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Chaayos - Koramangala",
+    "mood": "relax",
+    "rating": 4.5,
+    "coordinates": [12.9352, 77.6245],
+    "description": "Tranquil space with calming ambiance and great chai",
+    "image": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "WeWork - Koramangala",
+    "mood": "work",
+    "rating": 4.5,
+    "coordinates": [12.9352, 77.6245],
+    "description": "Modern co-working space with all amenities and meeting rooms",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Vidyarthi Bhavan",
+    "mood": "quick bite",
+    "rating": 4.6,
+    "coordinates": [12.9716, 77.5946],
+    "description": "Famous South Indian breakfast - authentic and delicious",
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "UB City Rooftop",
+    "mood": "romantic",
+    "rating": 4.7,
+    "coordinates": [12.9716, 77.5946],
+    "description": "Luxurious rooftop dining with city skyline views",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Nandi Hills",
+    "mood": "adventure",
+    "rating": 4.8,
+    "coordinates": [13.3701, 77.6836],
+    "description": "Scenic hill station perfect for trekking and sunrise views",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "The Yoga House",
+    "mood": "relax",
+    "rating": 4.6,
+    "coordinates": [12.9784, 77.6408],
+    "description": "Serene yoga studio for meditation and wellness",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+  }
+]
